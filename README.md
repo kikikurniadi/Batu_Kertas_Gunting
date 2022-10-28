@@ -1,2 +1,1 @@
-# my-project
-# Repository-Baru
+# Batu Kertas Gunting Haskell
